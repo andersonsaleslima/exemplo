@@ -4,9 +4,9 @@
 
 ### Informações
 
-*Aluno: Anderson
-*matricula: 0170
+* Aluno: Anderson
+* matricula: 0170
 
 links:
-https://try.github.io/
+* https://try.github.io/
 
